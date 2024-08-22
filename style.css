@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    padding: 20px 60px;
+}
+
+#titulo{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+#subtitulo{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 15px;  
+}
+
+#topicosubtitulo{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+#subtitulo-dois{
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+li{
+    margin-left: 2rem;
+}
+
+.paragrafo2{
+    margin-left: 30px;
+}
+
+p{
+    margin-top: 15px;
+}
+
+.plistatop{
+    margin-bottom: 15px;
+}
+
+.plistabottom{
+    margin-top: 0px;
+}
+
+.referencias{
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+
+.referencias-um{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#autor{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
